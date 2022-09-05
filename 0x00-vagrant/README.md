@@ -1,0 +1,1 @@
+This is a readme of the new directory, 0x00-vagrant.
